@@ -7,7 +7,7 @@ From this unstructured Twitterdata I'm trying to recreate the relationships of t
 The code follows these steps:
 
 1:
-Searching the Tweets for grouped appearence potential characternames
+Searching the Tweets for grouped appearence of potential characternames
 
 2:
 Scraping the real names of all characters of the official Wikipediapage
