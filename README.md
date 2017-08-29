@@ -22,7 +22,8 @@ Computing the weight of each linkage between two names by counting their appeare
 Saving the edges for further processing in gephi
 
 
-Attention!
+# Attention!
 There is no warranty for duplicated prenames to be mapped to the corresponding surname
 Detecting the correct mapping from the tweet context is not supported
 For example mentioning 'Jon'  will be interpreted as 'Jon Stark' [Main character] dropping the possibility of 'Jon Arryn' [Secondary character]
+Checking the names for consistency is advisable
