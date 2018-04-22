@@ -1,4 +1,4 @@
-# Recreating Game of Thrones story in the final episode of season 7 by using Twitter Tweets
+# Recreating the Game of Thrones story in the final episode of season 7 by using Twitter Tweets
 
 During the airing of the final Game of Thrones episode of season 7 the main hashtags have been streamed and saved by the Twitter-API. Around 2.000.000 Tweets have been gathered. This data is the basis for the following code.
 
