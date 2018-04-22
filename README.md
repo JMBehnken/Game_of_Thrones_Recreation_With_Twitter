@@ -1,8 +1,8 @@
-# Linking Game of Thrones characters in the final episode of season 7 by using their Twitter frequency
+# Recreating Game of Thrones story in the final episode of season 7 by using Twitter Tweets
 
 During the airing of the final Game of Thrones episode of season 7 the main hashtags have been streamed and saved by the Twitter-API. Around 2.000.000 Tweets have been gathered. This data is the basis for the following code.
 
-From this unstructured Twitterdata I'm trying to recreate the relationships of the characters. Therefore I'm using their mentions in the Tweets and create a graph with gephi to visualize it.
+From this unstructured Twitterdata I'm trying to recreate the relationships of the characters and recreate the main storyline. Therefore I'm using their mentions in the Tweets and create a graph with gephi to visualize it.
 
 The code follows these steps:
 
@@ -20,6 +20,8 @@ Computing the weight of each linkage between two names by counting their appeare
 
 5:
 Saving the edges for further processing in gephi
+
+6: Measuring the relative importance of characters to each other over time
 
 
 # Attention!
